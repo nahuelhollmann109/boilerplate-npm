@@ -7,8 +7,11 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"keywords": [],
+	"author": "nahuel",
+	"license": "ISC",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/nahuelhollmann109/boilerplate-npm"
 	}
 }
