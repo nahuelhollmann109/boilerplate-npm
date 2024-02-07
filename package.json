@@ -8,7 +8,7 @@
 		"start": "node server.js"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Jane Doe",
 	"license": "ISC",
 	"dependencies": {
 	  "bcrypt": "5.1.1",
